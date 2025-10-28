@@ -52,6 +52,7 @@ Feature	Description
 🌍 Scalable API Integration	Supports third-party platforms (LinkedIn, Naukri, etc.) for dynamic job retrieval.
 
 🧩 Architecture
+
                   +-----------------------+
                   |     User Interface     |
                   | (Web / Mobile / API)   |
@@ -82,6 +83,7 @@ Feature	Description
                 +-----------------------------+
 
 🧰 Technology Stack
+
 Layer	Technologies
 Frontend	 Streamlit UIUX /
 Backend	Python / 
